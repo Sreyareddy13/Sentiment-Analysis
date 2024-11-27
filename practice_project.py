@@ -1,0 +1,2 @@
+mkdir practice_project
+
